@@ -1,0 +1,2 @@
+x="gopika"
+print(x)
